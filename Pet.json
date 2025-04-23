@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bubbles",
+    "species": "Heterodon",
+    "breed": "Hognose Snake",
+    "age": 2,
+    "status": "Adopt Me"
+  },
+  {
+    "name": "Buttercup",
+    "species": "Iguana Iguana",
+    "breed": "Green Iguana",
+    "age": 4,
+    "status": "Adopt Me"
+  },
+  {
+    "name": "Blossom",
+    "species": "Tliltocatl Albopilosus",
+    "breed": "Curly Hair Tarantula",
+    "age": 3,
+    "status": "Adopt Me"
+  }
+]
